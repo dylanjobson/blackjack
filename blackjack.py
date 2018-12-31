@@ -155,7 +155,7 @@ while True:
     else:
         
         
-    
+        playing = True
         deck = Deck()
         deck.shuffle()
 
